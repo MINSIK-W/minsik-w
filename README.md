@@ -1,8 +1,8 @@
 
-<p>
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Always+learning+new+technologies;Love+to+solve+complex+problems" alt="Typing SVG" />
 </p>
-<p>
+<p align="center">
     <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=minsik-w&theme=radical&locale=ko&card_width=500" alt="GitHub Streak" /></a>
 </p>  
 
