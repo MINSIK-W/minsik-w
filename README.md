@@ -28,13 +28,6 @@
   <img alt="Slack" src="https://img.shields.io/badge/-Slack-4A154B?style=flat-square&logo=slack&logoColor=white" />
 </p>
 
-<div align="left">
-  <span><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minsik-w&layout=compact&theme=radical" alt="사용 언어 통계" /></span>
-</div>
-<div align="left">
-  <span><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=minsik-w&theme=radical&card_width=500" alt="GitHub Streak&locale=ko" /></a></span>
-</div>
-
 <details>
 <summary><h3>🌱 Currently learning & Interested technologies</h3></summary>
   <p>
