@@ -27,6 +27,7 @@
 <p>
   <img alt="Trello" src="https://img.shields.io/badge/-Trello-0079BF?style=flat-square&logo=trello&logoColor=white" />
   <img alt="Slack" src="https://img.shields.io/badge/-Slack-4A154B?style=flat-square&logo=slack&logoColor=white" />
+  <img alt="Postman" src="https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
 </p>
 
 
