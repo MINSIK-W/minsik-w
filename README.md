@@ -87,8 +87,8 @@ const minsik = {
 ## 📊 GitHub Stats
 
 <div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=minsik-w&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6AD3F7&icon_color=6AD3F7&text_color=C9D1D9"/>
-<img height="180em" src="https://streak-stats.demolab.com/?user=minsik-w&theme=tokyonight&hide_border=true&background=0D1117&stroke=6AD3F7&ring=6AD3F7&fire=FF6B6B&currStreakLabel=6AD3F7"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=minsik-w&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6AD3F7&icon_color=6AD3F7&text_color=C9D1D9"/>
+<img height="170em" src="https://streak-stats.demolab.com/?user=minsik-w&theme=tokyonight&hide_border=true&background=0D1117&stroke=6AD3F7&ring=6AD3F7&fire=FF6B6B&currStreakLabel=6AD3F7"/>
 </div>
 
 <br/>
