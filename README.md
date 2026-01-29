@@ -76,6 +76,12 @@ const minsik = {
 <img alt="GCP" src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white" />
 <img alt="ESLint" src="https://img.shields.io/badge/ESLint-4B32C3?style=flat-square&logo=eslint&logoColor=white" />
 <img alt="Prettier" src="https://img.shields.io/badge/Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=black" />
+<img alt="mise" src="https://img.shields.io/badge/mise-000000?style=flat-square&logo=rust&logoColor=white" />
+<img alt="nvm" src="https://img.shields.io/badge/nvm-339933?style=flat-square&logo=node.js&logoColor=white" />
+
+
+
+
 </p>
 
 </td>
