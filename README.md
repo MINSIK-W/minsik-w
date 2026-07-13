@@ -59,11 +59,3 @@ Java와 Spring Boot를 활용한 백엔드 개발도 함께하고 있습니다.
 * Spring Boot와 MyBatis 기반의 백엔드 개발
 * TypeScript를 활용한 안전한 프론트엔드 개발
 * MySQL과 PostgreSQL을 활용한 데이터베이스 설계
-
-## GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=minsik-w&show_icons=true&hide_border=true&theme=transparent" alt="GitHub Stats" />
-
-</div>
