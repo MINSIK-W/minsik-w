@@ -16,7 +16,7 @@ Java와 Spring Boot를 활용한 백엔드 개발도 함께하고 있습니다.
 실무에서는 새로운 기술을 많이 사용하는 것보다
 읽기 쉽고 유지보수하기 좋은 코드를 작성하는 것을 중요하게 생각합니다.
 
-최근에는 React, Next.js, Spring Boot, MyBatis를 중심으로 공부하고 있습니다.
+최근에는 React와 Next.js 기반의 프론트엔드 개발과 Spring Boot, MyBatis를 활용한 백엔드 개발을 주로 하고 있습니다.
 
 ## Tech Stack
 
