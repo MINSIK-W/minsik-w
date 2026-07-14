@@ -8,7 +8,7 @@
 
 ## About Me
 
-안녕하세요. 웹 개발자 Minsik입니다.
+안녕하세요. 
 
 JavaScript와 TypeScript를 기반으로 프론트엔드를 개발하고 있으며,
 Java와 Spring Boot를 활용한 백엔드 개발도 함께하고 있습니다.
